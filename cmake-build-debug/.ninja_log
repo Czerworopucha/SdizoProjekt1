@@ -1,0 +1,22 @@
+# ninja log v5
+272	1614	7033500888034737	CMakeFiles/sdizo_projekt_1.dir/Menu.cpp.obj	24db2941a485bc49
+3132	4738	7033500919493370	CMakeFiles/sdizo_projekt_1.dir/Heap.cpp.obj	80674e2f5e353bba
+24	271	7033500874480908	CMakeFiles/sdizo_projekt_1.dir/ListElement.cpp.obj	cbc7e3c69cee68d4
+14	777	7032957255772730	CMakeFiles/sdizo_projekt_1.dir/main.cpp.obj	8f11970bfa18a0f5
+16	1977	7033500891784282	CMakeFiles/sdizo_projekt_1.dir/Array.cpp.obj	81c47cd40d228bf5
+1615	3132	7033500903308965	CMakeFiles/sdizo_projekt_1.dir/List.cpp.obj	a84891a33874d73c
+1978	3482	7033500906757608	CMakeFiles/sdizo_projekt_1.dir/RNG.cpp.obj	cb3cae5f69abdece
+1216	1400	7032957261977678	sdizo_projekt_1.exe	3741e040c7e87f45
+17	1858	7033504297598868	CMakeFiles/sdizo_projekt_1.dir/Time.cpp.obj	927f255afe26c673
+7	619	7033511877614033	CMakeFiles/sdizo_projekt_1.dir/main.cpp.obj	850f8a3f7c754bf
+620	1369	7033511885019015	sdizo_projekt_1.exe	ea28b77da163b685
+7	840	7033512384619445	CMakeFiles/sdizo_projekt_1.dir/main.cpp.obj	850f8a3f7c754bf
+841	1583	7033512392028749	sdizo_projekt_1.exe	ea28b77da163b685
+7	642	7033512764464290	CMakeFiles/sdizo_projekt_1.dir/main.cpp.obj	850f8a3f7c754bf
+643	1361	7033512771559239	sdizo_projekt_1.exe	ea28b77da163b685
+6	648	7033513873864170	CMakeFiles/sdizo_projekt_1.dir/main.cpp.obj	850f8a3f7c754bf
+649	1379	7033513881085060	sdizo_projekt_1.exe	ea28b77da163b685
+9	767	7033514193724430	CMakeFiles/sdizo_projekt_1.dir/main.cpp.obj	850f8a3f7c754bf
+768	1521	7033514201172223	sdizo_projekt_1.exe	ea28b77da163b685
+7	651	7033514547103876	CMakeFiles/sdizo_projekt_1.dir/main.cpp.obj	850f8a3f7c754bf
+651	1335	7033514553874773	sdizo_projekt_1.exe	ea28b77da163b685
